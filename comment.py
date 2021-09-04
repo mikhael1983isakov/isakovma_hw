@@ -1,0 +1,2 @@
+
+print('Comment was added')
