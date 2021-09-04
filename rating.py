@@ -1,0 +1,2 @@
+
+print('My new rating')
